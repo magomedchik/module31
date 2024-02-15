@@ -1,8 +1,6 @@
 import re
 """
-ssacas 
-,kf ,kf ,kf
-sasaca
+Какой-то текст
 """
 result = re.findall(r'\b\w{4}\b', text)
 
