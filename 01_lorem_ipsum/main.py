@@ -1,6 +1,7 @@
 import re
 """
 бла бла бла 
+,kf ,kf ,kf
 """
 result = re.findall(r'\b\w{4}\b', text)
 
