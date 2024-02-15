@@ -1,6 +1,6 @@
-import re
+﻿import re
 """
-Коммит 1
+тест тест тест
 """
 result = re.findall(r'\b\w{4}\b', text)
 
