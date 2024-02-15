@@ -1,6 +1,6 @@
 import re
 """
-бла бла бла 
+ 
 ,kf ,kf ,kf
 sdasd sda sda
 """
